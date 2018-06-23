@@ -1,2 +1,2 @@
 # RegExpWrapper
-VBA RegExp's wrapper
+VBA RegExp's wrapper class.
